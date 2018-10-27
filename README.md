@@ -3,6 +3,7 @@ This is a simple JavaScript app that keeps track of the number of clicks while o
 
 The live, playable game can be found [here](https://js-goose.github.io/cat-clicker/).
 
+![cat-clicker](/img/Capture.png)
 # Project Design
 I chose something simple and easy on the eyes as I'm not the best designer.  I feel as though the layout works well and has a natural flow to it.
 
